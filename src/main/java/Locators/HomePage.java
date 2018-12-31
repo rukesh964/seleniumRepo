@@ -2,6 +2,6 @@ package Locators;
 
 public interface HomePage {
 
-    String HomePage_URL="https://www.phptravels.net";
+    String HomePage_URL="http://the-internet.herokuapp.com";
 
 }

@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44220dfb-f41c-4ed0-bd21-11b419270347" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../selenium/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium/src/app.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium/src/log4jfile.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium/src/main/java/Locators/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium/src/test/java/BaseClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="44220dfb-f41c-4ed0-bd21-11b419270347" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,12 +28,8 @@
       <file leaf-file-name="BaseClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../selenium/src/test/java/BaseClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="45" column="62" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="62" />
-              <folding>
-                <element signature="e#1162#1163#0" expanded="true" />
-                <element signature="e#1190#1191#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="181">
+              <caret line="42" column="79" selection-start-line="42" selection-start-column="79" selection-end-line="42" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -349,10 +333,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
           <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="e#1162#1163#0" expanded="true" />
-            <element signature="e#1190#1191#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -467,12 +447,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../selenium/src/test/java/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="45" column="62" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="62" />
-          <folding>
-            <element signature="e#1162#1163#0" expanded="true" />
-            <element signature="e#1190#1191#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="181">
+          <caret line="42" column="79" selection-start-line="42" selection-start-column="79" selection-end-line="42" selection-end-column="79" />
         </state>
       </provider>
     </entry>
